@@ -1,0 +1,49 @@
+#div1{
+    height:650px;
+    width:650px;
+    background-color:blueviolet;
+}
+
+#div{
+    height:650px;
+    width:650px;
+    background-color:indigo;
+}
+
+
+h3{
+    align:center;
+    font-weight:bold;
+}
+
+h5{
+    align:center;
+    color:white;
+}
+
+#p1{
+    background-color:gray;
+    height:30px;
+    width:100%;
+}
+
+/* span css */
+#s1{
+    color:red;
+}
+#s2{
+    color:red;
+}
+#s3{
+    color:black;
+}
+
+#i1{
+    width:100%;
+    height:50px;
+}
+.card{
+    background:pink;
+    margin:5px;
+    height:190px;
+}
